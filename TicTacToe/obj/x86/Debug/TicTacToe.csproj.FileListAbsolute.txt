@@ -1,0 +1,7 @@
+C:\Users\Osemudiamen\Google Drive\Grade 12\Computer Science\C#\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.Form1.resources
+C:\Users\Osemudiamen\Google Drive\Grade 12\Computer Science\C#\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\Osemudiamen\Google Drive\Grade 12\Computer Science\C#\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.csproj.GenerateResource.Cache
+C:\Users\Osemudiamen\Google Drive\Grade 12\Computer Science\C#\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\Osemudiamen\Google Drive\Grade 12\Computer Science\C#\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\Osemudiamen\Google Drive\Grade 12\Computer Science\C#\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.exe
+C:\Users\Osemudiamen\Google Drive\Grade 12\Computer Science\C#\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.pdb
